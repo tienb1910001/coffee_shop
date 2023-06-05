@@ -38,8 +38,5 @@
       <div class="copyright">
         &copy; Copyright <strong><span>The Grinder</span></strong>. All Rights Reserved
       </div>
-      <div class="credits">
-        Designed by <a href="">B1909988</a>
-      </div>
     </div>
   </footer><!-- End Footer -->
